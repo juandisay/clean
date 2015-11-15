@@ -1,9 +1,9 @@
 writer by @juandisay
 
-usage:
+usage: <br />
 $python hapus.py <*.extensifile(spesifik)>
  
-Example:
+Example: <br />
 $python hapus.py *.pyc
 
 
