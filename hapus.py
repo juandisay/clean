@@ -1,12 +1,17 @@
 import os
-from glob import glob
 import sys
 
-ass=sys.argv[1]
-subyek=glob('%s' %(ass))
+ass=sys.argv
 
-try:
-    for i in range(len(subyek)):
-        os.system('rm %s'%(subyek[i]))
-except:
-    print 'file tidak tersedia'
+def args(ubyek):
+    return ubyek
+
+def exe():
+    try:
+        for i in range(1,len(args(ass))):
+            os.system('rm %s' % (args(ass)[i]))
+    except Exception:
+        print 'tidak ada file yang pelungguh inginkan'
+
+if __name__=='__main__':
+    exe()
