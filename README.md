@@ -1,4 +1,5 @@
-writer by @juandisay
+<i>writer by @juandisay</i>
+
 
 usage: <br />
 $python hapus.py <*.extensifile(spesifik)>
