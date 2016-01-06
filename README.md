@@ -1,11 +1,2 @@
-<i>writer by @juandisay</i>
-
-
-usage: <br />
-$python hapus.py <*.extensifile(spesifik)>
- 
-Example: <br />
-$python hapus.py *.pyc
-
-
-Thanks
+JANGAN TAKUT MENCIPTAKAN HAL-HAL KECIL, SETIDAKNYA ADA INOVASI SENDIRI
+----------------------------------------------------------------------
